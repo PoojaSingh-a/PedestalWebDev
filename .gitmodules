@@ -1,0 +1,9 @@
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/PoojaSingh-a/Portfolio.git
+[submodule "Todo-List"]
+	path = Todo-List
+	url = https://github.com/PoojaSingh-a/Todo-List.git
+[submodule "BlogsAndBeyond"]
+	path = BlogsAndBeyond
+	url = https://github.com/PoojaSingh-a/BlogsAndBeyond.git
